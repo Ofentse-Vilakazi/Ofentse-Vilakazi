@@ -19,9 +19,8 @@
 
 ## 👨🏽‍💻 About Me
 
-- 🎓 I'm a 2nd-year **Bachelor of Information Technology student** from South Africa  
-- 🧠 Passionate **Web Developer** and avid **Gamer**  
-- 🌐 I’m focused on becoming a **Full-Stack Developer**
+- 🎓 I'm a Final Year year **Software Engineering student** from South Africa  
+- 🧠 Passionate **Fullstack Developer** **C# Developer** and avid **Gamer**  
 - 💡 Currently learning and building with:
   - **JavaScript**, **Node.js**, **React**, **PostgreSQL**, **Web3**, and **DApps**
 - 🚧 Working on portfolio projects and personal web apps
